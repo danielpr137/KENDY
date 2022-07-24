@@ -1674,3 +1674,948 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.24-15.05.00:304][ 14]LogFileHelpers: Saving map 'NewMap' took 0.059
 [2022.07.24-15.05.00:320][ 14]AssetCheck: New page: Asset Save: NewMap
 [2022.07.24-15.05.00:321][ 14]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2022.07.24-15.51.20:649][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_GroundMound_5)
+[2022.07.24-15.51.24:471][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_14)
+[2022.07.24-15.51.25:376][439]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_GroundMound_04)
+[2022.07.24-15.51.26:236][451]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_GroundMound_05)
+[2022.07.24-15.51.27:145][464]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_PondEdge_11)
+[2022.07.24-15.51.29:137][494]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_PondEdge_9)
+[2022.07.24-15.51.33:865][568]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.07.24-15.51.56:968][282]LogEditorViewport: Clicking Background
+[2022.07.24-15.52.08:438][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_12)
+[2022.07.24-15.52.12:149][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_14)
+[2022.07.24-15.52.18:568][752]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2022.07.24-15.52.21:198][792]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.24-15.52.22:761][815]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.24-15.52.25:454][855]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.24-15.52.27:418][884]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.24-15.52.29:972][922]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.24-15.52.31:864][950]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.24-15.52.32:895][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_GroundMound_5)
+[2022.07.24-15.52.34:298][983]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2022.07.24-15.52.36:068][ 10]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.24-15.52.39:206][ 57]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.24-15.52.47:069][175]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.24-15.52.48:554][198]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.24-15.52.48:563][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.24-15.52.48:563][198]PIE: New page: PIE session: NewMap (24 ביולי 2022, 21:52:48)
+[2022.07.24-15.52.48:564][198]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.07.24-15.52.48:573][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009171s)
+[2022.07.24-15.52.48:574][198]LogAIModule: Creating AISystem for world NewMap
+[2022.07.24-15.52.48:575][198]LogPlayLevel: PIE: World Init took: (0.001869s)
+[2022.07.24-15.52.48:575][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.011302s)
+[2022.07.24-15.52.48:686][198]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.07.24-15.52.48:690][198]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.07.24-15.52.48:690][198]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.24-15.52.48:690][198]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.24-15.52.48:690][198]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.24-15.52.48:690][198]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.24-15.52.48:690][198]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.24-15.52.48:690][198]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.24-15.52.48:690][198]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.24-15.52.48:690][198]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.24-15.52.48:691][198]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.24-15.52.48:691][198]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.24-15.52.48:691][198]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.24-15.52.48:691][198]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.24-15.52.48:694][198]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.24-15.52.48:694][198]LogAudioMixer: Display: 1: FrontRight
+[2022.07.24-15.52.48:709][198]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2022.07.24-15.52.48:709][198]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.24-15.52.48:709][198]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.24-15.52.48:710][198]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.24-15.52.48:711][198]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.24-15.52.48:711][198]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.24-15.52.48:711][198]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.24-15.52.48:712][198]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.24-15.52.48:712][198]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.24-15.52.48:712][198]LogInit: FAudioDevice initialized.
+[2022.07.24-15.52.48:712][198]LogAudio: Display: Audio Device (ID: 7) registered with world 'NewMap'.
+[2022.07.24-15.52.48:721][198]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.24-15.52.48:725][198]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2022.07.24-18.52.48
+[2022.07.24-15.52.48:725][198]LogWorld: Bringing up level for play took: 0.003550
+[2022.07.24-15.52.48:725][198]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.07.24-15.52.48:729][198]PIE: Server logged in
+[2022.07.24-15.52.48:730][198]PIE: Play in editor total start time 0.169 seconds.
+[2022.07.24-15.53.18:184][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-15.53.18:184][682]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.07.24-15.53.18:184][682]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.24-15.53.18:185][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-15.53.18:278][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.24-15.53.18:293][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-15.53.18:314][682]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.24-15.53.18:315][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-15.53.18:316][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-15.53.18:318][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-15.53.18:322][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.07.24-15.53.18:365][683]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.07.24-15.53.28:866][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_01)
+[2022.07.24-15.53.36:715][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_2)
+[2022.07.24-15.53.37:564][984]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Cliff_02)
+[2022.07.24-15.53.44:283][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_5)
+[2022.07.24-15.54.00:831][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Large_3)
+[2022.07.24-15.54.01:831][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Large_4)
+[2022.07.24-15.54.02:458][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_5)
+[2022.07.24-15.54.40:503][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.07.24-15.54.40:505][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Autosaves/Game/NewMap_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.07.24-15.54.40:533][951]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/NewMap_Auto579DE981A484F7D981594F0B6F0A6D9CE.tmp' to '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Autosaves/Game/NewMap_Auto5.umap'
+[2022.07.24-15.54.40:535][951]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.055
+[2022.07.24-15.54.40:535][951]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
+[2022.07.24-16.02.30:522][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Hill_Cascade_01)
+[2022.07.24-16.03.45:624][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_4)
+[2022.07.24-16.03.47:360][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_03)
+[2022.07.24-16.03.52:165][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_7)
+[2022.07.24-16.03.52:893][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_4)
+[2022.07.24-16.03.53:786][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_7)
+[2022.07.24-16.03.54:849][290]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_5)
+[2022.07.24-16.03.55:890][304]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_6)
+[2022.07.24-16.03.56:349][310]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_5)
+[2022.07.24-16.03.56:969][318]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_4)
+[2022.07.24-16.03.58:094][333]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_03)
+[2022.07.24-16.03.58:470][338]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_4)
+[2022.07.24-16.04.10:162][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_02)
+[2022.07.24-16.04.21:177][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_9)
+[2022.07.24-16.04.22:374][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_10)
+[2022.07.24-16.04.23:306][691]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_9)
+[2022.07.24-16.04.23:862][698]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_8)
+[2022.07.24-16.04.34:195][849]Cmd: TRANSACTION UNDO
+[2022.07.24-16.04.34:195][849]LogEditorTransaction: Undo Move Actors
+[2022.07.24-16.04.49:888][ 79]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_11)
+[2022.07.24-16.04.50:808][ 92]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_12)
+[2022.07.24-16.04.51:903][107]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_13)
+[2022.07.24-16.05.20:147][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_13)
+[2022.07.24-16.05.48:059][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Large_8)
+[2022.07.24-16.05.50:830][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_14)
+[2022.07.24-16.06.09:845][228]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Env_Bridge_14)
+[2022.07.24-16.06.10:499][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_14)
+[2022.07.24-16.06.24:350][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_9)
+[2022.07.24-16.06.25:328][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_14)
+[2022.07.24-16.06.46:237][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_15)
+[2022.07.24-16.06.47:562][773]Cmd: DELETE
+[2022.07.24-16.06.47:562][773]Cmd: ACTOR DELETE
+[2022.07.24-16.06.47:568][773]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.24-16.06.47:647][773]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2022.07.24-16.06.47:649][773]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2022.07.24-16.06.48:390][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_16)
+[2022.07.24-16.06.48:874][791]Cmd: DELETE
+[2022.07.24-16.06.48:874][791]Cmd: ACTOR DELETE
+[2022.07.24-16.06.48:878][791]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.24-16.06.48:922][791]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2022.07.24-16.06.48:925][791]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2022.07.24-16.06.51:606][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_14)
+[2022.07.24-16.06.52:944][850]Cmd: EDIT COPY
+[2022.07.24-16.06.53:162][853]Cmd: EDIT PASTE
+[2022.07.24-16.07.20:800][257]Cmd: EDIT COPY
+[2022.07.24-16.07.21:153][260]Cmd: EDIT PASTE
+[2022.07.24-16.07.28:910][372]Cmd: TRANSACTION UNDO
+[2022.07.24-16.07.28:910][372]LogEditorTransaction: Undo Move Actors
+[2022.07.24-16.07.44:325][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_6)
+[2022.07.24-16.07.45:051][605]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Env_Cliff_6)
+[2022.07.24-16.07.45:887][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Large_8)
+[2022.07.24-16.07.50:926][690]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.24-16.07.50:934][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.24-16.07.50:934][690]PIE: New page: PIE session: NewMap (24 ביולי 2022, 22:07:50)
+[2022.07.24-16.07.50:935][690]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.07.24-16.07.50:944][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009082s)
+[2022.07.24-16.07.50:945][690]LogAIModule: Creating AISystem for world NewMap
+[2022.07.24-16.07.50:945][690]LogPlayLevel: PIE: World Init took: (0.001548s)
+[2022.07.24-16.07.50:945][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.010797s)
+[2022.07.24-16.07.50:985][690]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2022.07.24-16.07.50:990][690]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.07.24-16.07.50:990][690]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.24-16.07.50:990][690]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.24-16.07.50:990][690]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.24-16.07.50:990][690]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.24-16.07.50:990][690]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.24-16.07.50:990][690]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.24-16.07.50:990][690]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.24-16.07.50:990][690]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.24-16.07.50:990][690]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.24-16.07.50:990][690]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.24-16.07.50:991][690]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.24-16.07.50:991][690]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.24-16.07.50:993][690]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.24-16.07.50:993][690]LogAudioMixer: Display: 1: FrontRight
+[2022.07.24-16.07.51:008][690]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2022.07.24-16.07.51:008][690]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.24-16.07.51:008][690]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.24-16.07.51:008][690]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.24-16.07.51:009][690]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.24-16.07.51:009][690]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.24-16.07.51:009][690]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.24-16.07.51:010][690]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.24-16.07.51:010][690]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.24-16.07.51:010][690]LogInit: FAudioDevice initialized.
+[2022.07.24-16.07.51:010][690]LogAudio: Display: Audio Device (ID: 8) registered with world 'NewMap'.
+[2022.07.24-16.07.51:047][690]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.24-16.07.51:054][690]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2022.07.24-19.07.51
+[2022.07.24-16.07.51:055][690]LogWorld: Bringing up level for play took: 0.005763
+[2022.07.24-16.07.51:055][690]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.07.24-16.07.51:062][690]PIE: Server logged in
+[2022.07.24-16.07.51:063][690]PIE: Play in editor total start time 0.131 seconds.
+[2022.07.24-16.08.26:935][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-16.08.26:936][295]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.07.24-16.08.26:936][295]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.24-16.08.26:937][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-16.08.27:061][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.24-16.08.27:082][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-16.08.27:106][295]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.24-16.08.27:106][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-16.08.27:108][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-16.08.27:110][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-16.08.27:115][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.07.24-16.08.27:162][296]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.07.24-16.08.40:026][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_02)
+[2022.07.24-16.08.57:700][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_3)
+[2022.07.24-16.09.28:393][181]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.07.24-16.09.28:393][181]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.07.24-16.09.30:188][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_6)
+[2022.07.24-16.09.35:174][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Large_8)
+[2022.07.24-16.09.48:860][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_12)
+[2022.07.24-16.10.22:480][ 46]LogSlate: Window 'Details' being destroyed
+[2022.07.24-16.10.27:662][123]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Env_Cliff_3)
+[2022.07.24-16.11.03:655][704]LogRenderer: Reallocating scene render targets to support 1320x932 Format 10 NumSamples 1 (Frame:139802).
+[2022.07.24-16.11.23:479][ 61]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2022.07.24-16.11.44:745][318]LogSlate: Window 'Content Browser' being destroyed
+[2022.07.24-16.11.44:749][318]LogSlate: Window 'Content Browser' being destroyed
+[2022.07.24-16.12.13:363][544]LogActorFactory: Actor Factory created SM_Env_Fence_01
+[2022.07.24-16.12.13:932][550]LogActorFactory: Actor Factory created SM_Env_Fence_01
+[2022.07.24-16.12.15:371][569]LogActorFactory: Actor Factory created SM_Env_Fence_01
+[2022.07.24-16.12.16:198][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_7)
+[2022.07.24-16.12.17:020][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_7)
+[2022.07.24-16.12.17:608][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fence_01)
+[2022.07.24-16.12.18:739][618]Cmd: DELETE
+[2022.07.24-16.12.18:740][618]Cmd: ACTOR DELETE
+[2022.07.24-16.12.18:744][618]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.24-16.12.18:810][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.07.24-16.12.18:817][618]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2022.07.24-16.12.24:173][668]LogActorFactory: Actor Factory created SM_Env_Bridge_02
+[2022.07.24-16.12.25:733][691]LogActorFactory: Actor Factory created SM_Env_Bridge_02
+[2022.07.24-16.12.31:571][755]LogActorFactory: Actor Factory created SM_Env_WoodEdge_Straight_01
+[2022.07.24-16.12.32:857][775]LogActorFactory: Actor Factory created SM_Env_WoodEdge_Straight_01
+[2022.07.24-16.12.33:479][785]Cmd: DELETE
+[2022.07.24-16.12.33:480][785]Cmd: ACTOR DELETE
+[2022.07.24-16.12.33:484][785]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.24-16.12.33:545][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.07.24-16.12.33:547][785]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2022.07.24-16.13.12:849][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_02)
+[2022.07.24-16.13.23:092][419]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Env_Bridge_02)
+[2022.07.24-16.13.24:069][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_02)
+[2022.07.24-16.13.45:982][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_02)
+[2022.07.24-16.14.12:285][178]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.24-16.14.12:294][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.24-16.14.12:294][178]PIE: New page: PIE session: NewMap (24 ביולי 2022, 22:14:12)
+[2022.07.24-16.14.12:294][178]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.07.24-16.14.12:303][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008760s)
+[2022.07.24-16.14.12:304][178]LogAIModule: Creating AISystem for world NewMap
+[2022.07.24-16.14.12:305][178]LogPlayLevel: PIE: World Init took: (0.001376s)
+[2022.07.24-16.14.12:305][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.010332s)
+[2022.07.24-16.14.12:345][178]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2022.07.24-16.14.12:349][178]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.07.24-16.14.12:349][178]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.24-16.14.12:350][178]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.24-16.14.12:350][178]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.24-16.14.12:350][178]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.24-16.14.12:350][178]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.24-16.14.12:350][178]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.24-16.14.12:350][178]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.24-16.14.12:350][178]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.24-16.14.12:350][178]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.24-16.14.12:350][178]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.24-16.14.12:350][178]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.24-16.14.12:350][178]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.24-16.14.12:354][178]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.24-16.14.12:354][178]LogAudioMixer: Display: 1: FrontRight
+[2022.07.24-16.14.12:367][178]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2022.07.24-16.14.12:368][178]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.24-16.14.12:368][178]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.24-16.14.12:368][178]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.24-16.14.12:369][178]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.24-16.14.12:369][178]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.24-16.14.12:369][178]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.24-16.14.12:371][178]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.24-16.14.12:371][178]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.24-16.14.12:371][178]LogInit: FAudioDevice initialized.
+[2022.07.24-16.14.12:371][178]LogAudio: Display: Audio Device (ID: 9) registered with world 'NewMap'.
+[2022.07.24-16.14.12:401][178]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.24-16.14.12:406][178]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.SM_Env_Bridge_02_234.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=4.750 Y=0.500 Z=0.000
+[2022.07.24-16.14.12:406][178]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2022.07.24-19.14.12
+[2022.07.24-16.14.12:407][178]LogWorld: Bringing up level for play took: 0.004126
+[2022.07.24-16.14.12:407][178]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.07.24-16.14.12:415][178]PIE: Server logged in
+[2022.07.24-16.14.12:416][178]PIE: Play in editor total start time 0.124 seconds.
+[2022.07.24-16.14.55:694][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-16.14.55:694][881]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.07.24-16.14.55:695][881]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.24-16.14.55:696][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-16.14.55:836][881]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.24-16.14.55:857][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-16.14.55:883][881]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.24-16.14.55:883][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-16.14.55:884][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-16.14.55:888][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-16.14.55:892][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.07.24-16.14.55:930][882]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.07.24-16.16.12:843][ 29]Cmd: EDIT COPY
+[2022.07.24-16.16.13:111][ 33]Cmd: EDIT PASTE
+[2022.07.24-16.16.39:382][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_7)
+[2022.07.24-16.16.40:599][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_3)
+[2022.07.24-16.17.02:736][788]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_02)
+[2022.07.24-16.17.04:023][808]Cmd: EDIT COPY
+[2022.07.24-16.17.04:302][812]Cmd: EDIT PASTE
+[2022.07.24-16.18.12:980][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_18)
+[2022.07.24-16.18.22:684][989]Cmd: TRANSACTION UNDO
+[2022.07.24-16.18.22:684][989]LogEditorTransaction: Undo Move Actors
+[2022.07.24-16.18.22:982][991]Cmd: TRANSACTION UNDO
+[2022.07.24-16.18.22:982][991]LogEditorTransaction: Undo Clicking on Actors
+[2022.07.24-16.18.58:841][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_9)
+[2022.07.24-16.18.59:501][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_9)
+[2022.07.24-16.19.00:260][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_18)
+[2022.07.24-16.19.04:292][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_7)
+[2022.07.24-16.19.28:937][922]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.07.24-16.19.28:943][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Autosaves/Game/NewMap_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.07.24-16.19.28:973][922]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/NewMap_Auto6FFBCC16C48F3FEE2EC1140B3A8332E93.tmp' to '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Autosaves/Game/NewMap_Auto6.umap'
+[2022.07.24-16.19.28:975][922]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.092
+[2022.07.24-16.19.28:976][922]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.092
+[2022.07.24-16.19.54:482][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_3)
+[2022.07.24-16.20.24:220][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_4)
+[2022.07.24-16.20.24:933][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_18)
+[2022.07.24-16.20.27:062][764]Cmd: EDIT COPY
+[2022.07.24-16.20.27:365][767]Cmd: EDIT PASTE
+[2022.07.24-16.20.33:186][842]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.07.24-16.21.03:218][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_19)
+[2022.07.24-16.21.08:614][375]Cmd: TRANSACTION UNDO
+[2022.07.24-16.21.08:614][375]LogEditorTransaction: Undo Rotate Actors
+[2022.07.24-16.21.10:516][403]Cmd: TRANSACTION UNDO
+[2022.07.24-16.21.10:516][403]LogEditorTransaction: Undo Rotate Actors
+[2022.07.24-16.21.13:536][448]Cmd: TRANSACTION REDO
+[2022.07.24-16.21.13:536][448]LogEditorTransaction: Redo Rotate Actors
+[2022.07.24-16.22.07:081][253]Cmd: EDIT COPY
+[2022.07.24-16.22.07:275][256]Cmd: EDIT PASTE
+[2022.07.24-16.22.33:157][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_16)
+[2022.07.24-16.22.34:590][668]Cmd: EDIT COPY
+[2022.07.24-16.22.35:117][674]Cmd: EDIT PASTE
+[2022.07.24-16.22.37:918][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_21)
+[2022.07.24-16.23.16:252][218]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ק (U+05e7)'
+[2022.07.24-16.23.16:257][218]LogSlate: Took 0.002875 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2022.07.24-16.23.18:924][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_6)
+[2022.07.24-16.23.19:461][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_21)
+[2022.07.24-16.29.29:467][809]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.07.24-16.29.29:474][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Autosaves/Game/NewMap_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.07.24-16.29.29:505][809]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/NewMap_Auto7F82750CE40FA559735383C91E1EF65D4.tmp' to '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Autosaves/Game/NewMap_Auto7.umap'
+[2022.07.24-16.29.29:507][809]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.071
+[2022.07.24-16.29.29:507][809]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2022.07.24-16.32.37:448][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_15)
+[2022.07.24-16.32.39:422][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_3)
+[2022.07.24-16.32.39:932][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_21)
+[2022.07.24-16.32.44:117][736]Cmd: EDIT CUT
+[2022.07.24-16.32.44:122][736]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.24-16.32.44:156][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.07.24-16.32.44:161][736]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.07.24-16.32.46:326][770]Cmd: TRANSACTION UNDO
+[2022.07.24-16.32.46:326][770]LogEditorTransaction: Undo Cut
+[2022.07.24-16.32.47:498][786]Cmd: EDIT COPY
+[2022.07.24-16.32.47:698][789]Cmd: EDIT PASTE
+[2022.07.24-16.33.19:723][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_10)
+[2022.07.24-16.33.26:264][352]Cmd: TRANSACTION UNDO
+[2022.07.24-16.33.26:264][352]LogEditorTransaction: Undo Rotate Actors
+[2022.07.24-16.33.27:126][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_22)
+[2022.07.24-16.33.31:565][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_10)
+[2022.07.24-16.33.32:641][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_22)
+[2022.07.24-16.33.39:536][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_21)
+[2022.07.24-16.33.40:241][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_22)
+[2022.07.24-16.34.19:541][144]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_21)
+[2022.07.24-16.34.21:076][168]Cmd: EDIT COPY
+[2022.07.24-16.34.21:278][171]Cmd: EDIT PASTE
+[2022.07.24-16.34.42:321][483]Cmd: EDIT COPY
+[2022.07.24-16.34.42:592][487]Cmd: EDIT PASTE
+[2022.07.24-16.35.02:255][781]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Env_Bridge_15)
+[2022.07.24-16.35.03:323][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_3)
+[2022.07.24-16.35.16:498][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_3)
+[2022.07.24-16.35.17:123][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_3)
+[2022.07.24-16.35.18:124][998]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_21)
+[2022.07.24-16.35.21:761][ 47]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_22)
+[2022.07.24-16.35.23:019][ 65]Cmd: EDIT COPY
+[2022.07.24-16.35.23:232][ 68]Cmd: EDIT PASTE
+[2022.07.24-16.35.25:825][102]Cmd: TRANSACTION UNDO
+[2022.07.24-16.35.25:825][102]LogEditorTransaction: Undo Move Actors
+[2022.07.24-16.35.27:167][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_16)
+[2022.07.24-16.35.28:294][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_27)
+[2022.07.24-16.35.29:607][141]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_28)
+[2022.07.24-16.35.55:297][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_15)
+[2022.07.24-16.35.56:935][535]Cmd: EDIT COPY
+[2022.07.24-16.35.57:218][539]Cmd: EDIT PASTE
+[2022.07.24-16.36.33:745][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Hill_Cascade_01)
+[2022.07.24-16.36.50:803][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_9)
+[2022.07.24-16.37.04:426][661]LogEditorViewport: Clicking Background
+[2022.07.24-16.37.38:204][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_16)
+[2022.07.24-16.37.38:946][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_9)
+[2022.07.24-16.37.42:606][647]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.24-16.37.42:613][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.24-16.37.42:613][647]PIE: New page: PIE session: NewMap (24 ביולי 2022, 22:37:42)
+[2022.07.24-16.37.42:613][647]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.07.24-16.37.42:624][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010802s)
+[2022.07.24-16.37.42:625][647]LogAIModule: Creating AISystem for world NewMap
+[2022.07.24-16.37.42:626][647]LogPlayLevel: PIE: World Init took: (0.001536s)
+[2022.07.24-16.37.42:626][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.012559s)
+[2022.07.24-16.37.42:747][647]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.07.24-16.37.42:753][647]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.07.24-16.37.42:753][647]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.24-16.37.42:753][647]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.24-16.37.42:753][647]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.24-16.37.42:753][647]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.24-16.37.42:753][647]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.24-16.37.42:753][647]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.24-16.37.42:753][647]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.24-16.37.42:754][647]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.24-16.37.42:754][647]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.24-16.37.42:754][647]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.24-16.37.42:754][647]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.24-16.37.42:754][647]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.24-16.37.42:757][647]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.24-16.37.42:757][647]LogAudioMixer: Display: 1: FrontRight
+[2022.07.24-16.37.42:770][647]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2022.07.24-16.37.42:770][647]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.24-16.37.42:770][647]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.24-16.37.42:770][647]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.24-16.37.42:771][647]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.24-16.37.42:771][647]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.24-16.37.42:771][647]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.24-16.37.42:773][647]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.24-16.37.42:773][647]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.24-16.37.42:773][647]LogInit: FAudioDevice initialized.
+[2022.07.24-16.37.42:773][647]LogAudio: Display: Audio Device (ID: 10) registered with world 'NewMap'.
+[2022.07.24-16.37.42:780][647]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.24-16.37.42:785][647]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2022.07.24-19.37.42
+[2022.07.24-16.37.42:785][647]LogWorld: Bringing up level for play took: 0.003536
+[2022.07.24-16.37.42:785][647]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.07.24-16.37.42:789][647]PIE: Server logged in
+[2022.07.24-16.37.42:790][647]PIE: Play in editor total start time 0.179 seconds.
+[2022.07.24-16.38.21:486][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-16.38.21:486][257]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.07.24-16.38.21:486][257]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.24-16.38.21:487][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-16.38.21:628][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.24-16.38.21:649][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-16.38.21:676][257]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.24-16.38.21:676][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-16.38.21:677][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-16.38.21:680][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-16.38.21:684][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.07.24-16.38.21:734][258]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.07.24-16.38.23:850][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_16)
+[2022.07.24-16.38.24:343][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_15)
+[2022.07.24-16.38.53:834][716]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_26)
+[2022.07.24-16.38.55:896][745]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_25)
+[2022.07.24-16.38.56:824][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_25)
+[2022.07.24-16.38.57:623][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_26)
+[2022.07.24-16.38.58:776][785]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_25)
+[2022.07.24-16.39.00:107][804]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_23)
+[2022.07.24-16.39.00:705][812]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_29)
+[2022.07.24-16.39.01:840][828]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_21)
+[2022.07.24-16.39.02:567][838]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_22)
+[2022.07.24-16.39.19:147][ 81]Cmd: TRANSACTION UNDO
+[2022.07.24-16.39.19:147][ 81]LogEditorTransaction: Undo Move Actors
+[2022.07.24-16.39.19:479][ 83]Cmd: TRANSACTION UNDO
+[2022.07.24-16.39.19:480][ 83]LogEditorTransaction: Undo Move Actors
+[2022.07.24-16.39.20:688][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_23)
+[2022.07.24-16.39.21:519][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_25)
+[2022.07.24-16.39.22:495][123]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_26)
+[2022.07.24-16.39.36:235][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_01)
+[2022.07.24-16.39.37:236][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_23)
+[2022.07.24-16.39.38:062][341]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_24)
+[2022.07.24-16.39.53:459][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_21)
+[2022.07.24-16.39.54:426][573]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_22)
+[2022.07.24-16.39.59:924][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_21)
+[2022.07.24-16.40.00:957][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_22)
+[2022.07.24-16.40.01:782][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_21)
+[2022.07.24-16.40.02:188][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Hill_Cascade_01)
+[2022.07.24-16.40.04:345][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_21)
+[2022.07.24-16.40.10:410][795]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_29)
+[2022.07.24-16.40.10:855][801]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_22)
+[2022.07.24-16.40.31:784][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_22)
+[2022.07.24-16.40.32:525][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_22)
+[2022.07.24-16.40.33:176][124]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_21)
+[2022.07.24-16.40.41:299][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_24)
+[2022.07.24-16.40.42:030][249]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_23)
+[2022.07.24-16.41.23:527][855]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2022.07.24-16.41.25:685][889]Cmd: EDIT CUT
+[2022.07.24-16.41.25:691][889]LogEditorActor: Deleted Actor: PlayerStart
+[2022.07.24-16.41.25:736][889]LogUObjectHash: Compacting FUObjectHashTables data took   8.50ms
+[2022.07.24-16.41.25:743][889]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2022.07.24-16.41.34:788][ 29]Cmd: EDIT PASTE
+[2022.07.24-16.41.34:918][ 29]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.24-16.41.40:989][119]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.24-16.41.44:332][167]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.24-16.41.46:627][201]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.24-16.41.48:244][225]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.24-16.41.49:538][244]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.24-16.41.51:287][270]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.24-16.41.53:379][301]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.24-16.41.54:914][324]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.24-16.41.54:921][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.24-16.41.54:921][324]PIE: New page: PIE session: NewMap (24 ביולי 2022, 22:41:54)
+[2022.07.24-16.41.54:921][324]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.07.24-16.41.54:930][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008743s)
+[2022.07.24-16.41.54:932][324]LogAIModule: Creating AISystem for world NewMap
+[2022.07.24-16.41.54:932][324]LogPlayLevel: PIE: World Init took: (0.002075s)
+[2022.07.24-16.41.54:932][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.011049s)
+[2022.07.24-16.41.54:976][324]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2022.07.24-16.41.54:979][324]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.07.24-16.41.54:979][324]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.24-16.41.54:980][324]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.24-16.41.54:980][324]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.24-16.41.54:980][324]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.24-16.41.54:980][324]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.24-16.41.54:980][324]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.24-16.41.54:980][324]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.24-16.41.54:980][324]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.24-16.41.54:980][324]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.24-16.41.54:980][324]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.24-16.41.54:980][324]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.24-16.41.54:980][324]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.24-16.41.54:983][324]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.24-16.41.54:983][324]LogAudioMixer: Display: 1: FrontRight
+[2022.07.24-16.41.55:002][324]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2022.07.24-16.41.55:002][324]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.24-16.41.55:002][324]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.24-16.41.55:003][324]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.24-16.41.55:003][324]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.24-16.41.55:003][324]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.24-16.41.55:003][324]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.24-16.41.55:004][324]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.24-16.41.55:004][324]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.24-16.41.55:004][324]LogInit: FAudioDevice initialized.
+[2022.07.24-16.41.55:004][324]LogAudio: Display: Audio Device (ID: 11) registered with world 'NewMap'.
+[2022.07.24-16.41.55:037][324]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.24-16.41.55:046][324]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2022.07.24-19.41.55
+[2022.07.24-16.41.55:046][324]LogWorld: Bringing up level for play took: 0.007187
+[2022.07.24-16.41.55:047][324]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.07.24-16.41.55:052][324]PIE: Server logged in
+[2022.07.24-16.41.55:053][324]PIE: Play in editor total start time 0.133 seconds.
+[2022.07.24-16.42.16:425][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-16.42.16:425][662]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.07.24-16.42.16:425][662]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.24-16.42.16:426][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-16.42.16:578][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.24-16.42.16:596][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-16.42.16:622][662]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.24-16.42.16:623][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-16.42.16:624][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-16.42.16:627][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-16.42.16:631][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.07.24-16.42.16:672][663]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.07.24-16.42.20:905][724]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.07.24-16.42.21:466][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_01)
+[2022.07.24-16.42.22:875][751]Cmd: EDIT COPY
+[2022.07.24-16.42.23:083][754]Cmd: EDIT PASTE
+[2022.07.24-16.42.52:533][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_01)
+[2022.07.24-16.43.37:328][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Hill_Cascade_4)
+[2022.07.24-16.43.50:766][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cloud_02)
+[2022.07.24-16.44.03:435][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_17)
+[2022.07.24-16.44.14:556][250]LogActorFactory: Actor Factory created SM_Env_Rock_Large_01
+[2022.07.24-16.44.17:094][283]LogActorFactory: Actor Factory created SM_Env_Rock_Large_01
+[2022.07.24-16.44.30:236][467]Cmd: TRANSACTION UNDO
+[2022.07.24-16.44.30:236][467]LogEditorTransaction: Undo Scale Actors
+[2022.07.24-16.44.54:909][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_01)
+[2022.07.24-16.45.05:712][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_01)
+[2022.07.24-16.45.09:580][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_25)
+[2022.07.24-16.45.10:873][ 32]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_26)
+[2022.07.24-16.45.12:676][ 59]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Cliff_16)
+[2022.07.24-16.45.13:374][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_25)
+[2022.07.24-16.45.14:108][ 76]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_26)
+[2022.07.24-16.45.28:347][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_16)
+[2022.07.24-16.45.33:405][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_21)
+[2022.07.24-16.45.34:787][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_23)
+[2022.07.24-16.45.36:253][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_25)
+[2022.07.24-16.45.37:838][414]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_26)
+[2022.07.24-16.45.38:700][426]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_25)
+[2022.07.24-16.45.44:575][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_16)
+[2022.07.24-16.45.47:097][546]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.24-16.45.47:104][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.24-16.45.47:104][546]PIE: New page: PIE session: NewMap (24 ביולי 2022, 22:45:47)
+[2022.07.24-16.45.47:104][546]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.07.24-16.45.47:114][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010813s)
+[2022.07.24-16.45.47:116][546]LogAIModule: Creating AISystem for world NewMap
+[2022.07.24-16.45.47:116][546]LogPlayLevel: PIE: World Init took: (0.001919s)
+[2022.07.24-16.45.47:116][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.012905s)
+[2022.07.24-16.45.47:176][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.07.24-16.45.47:181][546]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.07.24-16.45.47:182][546]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.24-16.45.47:182][546]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.24-16.45.47:182][546]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.24-16.45.47:182][546]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.24-16.45.47:182][546]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.24-16.45.47:182][546]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.24-16.45.47:182][546]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.24-16.45.47:182][546]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.24-16.45.47:182][546]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.24-16.45.47:182][546]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.24-16.45.47:182][546]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.24-16.45.47:182][546]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.24-16.45.47:185][546]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.24-16.45.47:185][546]LogAudioMixer: Display: 1: FrontRight
+[2022.07.24-16.45.47:201][546]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2022.07.24-16.45.47:201][546]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.24-16.45.47:201][546]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.24-16.45.47:201][546]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.24-16.45.47:202][546]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.24-16.45.47:202][546]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.24-16.45.47:202][546]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.24-16.45.47:204][546]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.24-16.45.47:204][546]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.24-16.45.47:204][546]LogInit: FAudioDevice initialized.
+[2022.07.24-16.45.47:204][546]LogAudio: Display: Audio Device (ID: 12) registered with world 'NewMap'.
+[2022.07.24-16.45.47:217][546]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.24-16.45.47:223][546]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2022.07.24-19.45.47
+[2022.07.24-16.45.47:223][546]LogWorld: Bringing up level for play took: 0.004336
+[2022.07.24-16.45.47:223][546]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.07.24-16.45.47:231][546]PIE: Server logged in
+[2022.07.24-16.45.47:232][546]PIE: Play in editor total start time 0.13 seconds.
+[2022.07.24-16.46.07:555][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-16.46.07:555][857]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.07.24-16.46.07:555][857]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.24-16.46.07:556][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-16.46.07:702][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.24-16.46.07:723][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-16.46.07:748][857]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.24-16.46.07:749][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-16.46.07:750][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-16.46.07:752][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-16.46.07:756][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.07.24-16.46.07:818][858]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.07.24-16.46.21:602][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_16)
+[2022.07.24-16.46.22:214][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_16)
+[2022.07.24-16.46.34:165][197]Cmd: TRANSACTION UNDO
+[2022.07.24-16.46.34:165][197]LogEditorTransaction: Undo Move Actors
+[2022.07.24-16.46.38:429][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_3)
+[2022.07.24-16.46.54:712][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_16)
+[2022.07.24-16.47.13:741][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_3)
+[2022.07.24-16.47.14:930][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_6)
+[2022.07.24-16.47.16:718][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_14)
+[2022.07.24-16.47.22:655][841]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_15)
+[2022.07.24-16.47.33:574][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_27)
+[2022.07.24-16.47.34:224][998]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_28)
+[2022.07.24-16.47.39:457][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cloud_02)
+[2022.07.24-16.47.39:958][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_10)
+[2022.07.24-16.47.41:350][ 97]Cmd: EDIT COPY
+[2022.07.24-16.47.41:587][100]Cmd: EDIT PASTE
+[2022.07.24-16.48.01:851][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_15)
+[2022.07.24-16.48.16:670][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_18)
+[2022.07.24-16.48.17:558][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_15)
+[2022.07.24-16.48.54:780][ 79]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_14)
+[2022.07.24-16.49.22:032][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_27)
+[2022.07.24-16.49.26:061][508]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_28)
+[2022.07.24-16.49.49:779][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_25)
+[2022.07.24-16.49.51:510][865]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_26)
+[2022.07.24-16.50.03:683][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_23)
+[2022.07.24-16.50.04:547][ 42]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_24)
+[2022.07.24-16.50.33:781][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_21)
+[2022.07.24-16.50.40:152][535]Cmd: DELETE
+[2022.07.24-16.50.40:152][535]Cmd: ACTOR DELETE
+[2022.07.24-16.50.40:157][535]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.24-16.50.40:198][535]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2022.07.24-16.50.40:203][535]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2022.07.24-16.50.41:086][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_22)
+[2022.07.24-16.50.43:157][573]Cmd: DELETE
+[2022.07.24-16.50.43:158][573]Cmd: ACTOR DELETE
+[2022.07.24-16.50.43:161][573]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.24-16.50.43:192][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.07.24-16.50.43:194][573]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2022.07.24-16.50.49:892][669]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.24-16.50.49:900][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.24-16.50.49:900][669]PIE: New page: PIE session: NewMap (24 ביולי 2022, 22:50:49)
+[2022.07.24-16.50.49:900][669]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.07.24-16.50.49:910][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010304s)
+[2022.07.24-16.50.49:911][669]LogAIModule: Creating AISystem for world NewMap
+[2022.07.24-16.50.49:912][669]LogPlayLevel: PIE: World Init took: (0.001473s)
+[2022.07.24-16.50.49:912][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.011945s)
+[2022.07.24-16.50.49:951][669]LogUObjectHash: Compacting FUObjectHashTables data took   7.93ms
+[2022.07.24-16.50.49:952][669]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.07.24-16.50.49:953][669]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.24-16.50.49:953][669]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.24-16.50.49:953][669]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.24-16.50.49:953][669]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.24-16.50.49:953][669]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.24-16.50.49:953][669]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.24-16.50.49:953][669]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.24-16.50.49:953][669]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.24-16.50.49:953][669]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.24-16.50.49:954][669]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.24-16.50.49:954][669]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.24-16.50.49:954][669]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.24-16.50.49:957][669]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.24-16.50.49:957][669]LogAudioMixer: Display: 1: FrontRight
+[2022.07.24-16.50.49:971][669]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2022.07.24-16.50.49:972][669]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.24-16.50.49:972][669]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.24-16.50.49:972][669]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.24-16.50.49:973][669]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.24-16.50.49:973][669]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.24-16.50.49:973][669]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.24-16.50.49:975][669]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.24-16.50.49:975][669]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.24-16.50.49:975][669]LogInit: FAudioDevice initialized.
+[2022.07.24-16.50.49:975][669]LogAudio: Display: Audio Device (ID: 13) registered with world 'NewMap'.
+[2022.07.24-16.50.50:012][669]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.24-16.50.50:019][669]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2022.07.24-19.50.50
+[2022.07.24-16.50.50:020][669]LogWorld: Bringing up level for play took: 0.006047
+[2022.07.24-16.50.50:020][669]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.07.24-16.50.50:027][669]PIE: Server logged in
+[2022.07.24-16.50.50:028][669]PIE: Play in editor total start time 0.129 seconds.
+[2022.07.24-16.51.15:816][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-16.51.15:816][ 70]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.07.24-16.51.15:816][ 70]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.24-16.51.15:817][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-16.51.15:978][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.24-16.51.15:984][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-16.51.16:010][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-16.51.16:012][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-16.51.16:013][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-16.51.16:019][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.07.24-16.51.16:043][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.07.24-16.51.19:235][119]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.24-16.51.19:242][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.24-16.51.19:242][119]PIE: New page: PIE session: NewMap (24 ביולי 2022, 22:51:19)
+[2022.07.24-16.51.19:242][119]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.07.24-16.51.19:253][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010239s)
+[2022.07.24-16.51.19:254][119]LogAIModule: Creating AISystem for world NewMap
+[2022.07.24-16.51.19:254][119]LogPlayLevel: PIE: World Init took: (0.001404s)
+[2022.07.24-16.51.19:254][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.011832s)
+[2022.07.24-16.51.19:292][119]LogUObjectHash: Compacting FUObjectHashTables data took   7.24ms
+[2022.07.24-16.51.19:293][119]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.07.24-16.51.19:293][119]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.24-16.51.19:293][119]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.24-16.51.19:293][119]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.24-16.51.19:293][119]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.24-16.51.19:293][119]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.24-16.51.19:293][119]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.24-16.51.19:293][119]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.24-16.51.19:293][119]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.24-16.51.19:294][119]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.24-16.51.19:294][119]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.24-16.51.19:294][119]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.24-16.51.19:294][119]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.24-16.51.19:296][119]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.24-16.51.19:297][119]LogAudioMixer: Display: 1: FrontRight
+[2022.07.24-16.51.19:309][119]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2022.07.24-16.51.19:309][119]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.24-16.51.19:309][119]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.24-16.51.19:309][119]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.24-16.51.19:310][119]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.24-16.51.19:310][119]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.24-16.51.19:310][119]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.24-16.51.19:311][119]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.24-16.51.19:311][119]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.24-16.51.19:311][119]LogInit: FAudioDevice initialized.
+[2022.07.24-16.51.19:311][119]LogAudio: Display: Audio Device (ID: 14) registered with world 'NewMap'.
+[2022.07.24-16.51.19:354][119]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.24-16.51.19:361][119]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2022.07.24-19.51.19
+[2022.07.24-16.51.19:362][119]LogWorld: Bringing up level for play took: 0.006578
+[2022.07.24-16.51.19:363][119]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.07.24-16.51.19:369][119]PIE: Server logged in
+[2022.07.24-16.51.19:370][119]PIE: Play in editor total start time 0.129 seconds.
+[2022.07.24-16.51.29:185][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-16.51.29:185][269]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.07.24-16.51.29:185][269]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.24-16.51.29:186][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-16.51.29:331][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.24-16.51.29:337][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-16.51.29:362][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-16.51.29:363][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-16.51.29:364][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-16.51.29:371][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.07.24-16.51.29:402][270]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.07.24-16.51.41:047][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_25)
+[2022.07.24-16.51.42:050][446]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Bridge_26)
+[2022.07.24-16.51.43:302][465]Cmd: EDIT COPY
+[2022.07.24-16.51.45:783][498]Cmd: TRANSACTION UNDO
+[2022.07.24-16.51.45:783][498]LogEditorTransaction: Undo Move Actors
+[2022.07.24-16.51.47:181][519]Cmd: EDIT COPY
+[2022.07.24-16.51.47:461][523]Cmd: EDIT PASTE
+[2022.07.24-16.51.59:793][696]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.24-16.51.59:803][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.24-16.51.59:803][696]PIE: New page: PIE session: NewMap (24 ביולי 2022, 22:51:59)
+[2022.07.24-16.51.59:803][696]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.07.24-16.51.59:819][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015737s)
+[2022.07.24-16.51.59:821][696]LogAIModule: Creating AISystem for world NewMap
+[2022.07.24-16.51.59:821][696]LogPlayLevel: PIE: World Init took: (0.002094s)
+[2022.07.24-16.51.59:821][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.018071s)
+[2022.07.24-16.51.59:860][696]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.07.24-16.51.59:863][696]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.07.24-16.51.59:863][696]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.24-16.51.59:863][696]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.24-16.51.59:864][696]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.24-16.51.59:864][696]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.24-16.51.59:864][696]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.24-16.51.59:864][696]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.24-16.51.59:864][696]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.24-16.51.59:864][696]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.24-16.51.59:864][696]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.24-16.51.59:864][696]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.24-16.51.59:864][696]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.24-16.51.59:864][696]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.24-16.51.59:866][696]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.24-16.51.59:866][696]LogAudioMixer: Display: 1: FrontRight
+[2022.07.24-16.51.59:880][696]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2022.07.24-16.51.59:880][696]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.24-16.51.59:880][696]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.24-16.51.59:880][696]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.24-16.51.59:881][696]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.24-16.51.59:881][696]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.24-16.51.59:881][696]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.24-16.51.59:882][696]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.24-16.51.59:882][696]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.24-16.51.59:882][696]LogInit: FAudioDevice initialized.
+[2022.07.24-16.51.59:882][696]LogAudio: Display: Audio Device (ID: 15) registered with world 'NewMap'.
+[2022.07.24-16.51.59:903][696]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.24-16.51.59:910][696]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2022.07.24-19.51.59
+[2022.07.24-16.51.59:911][696]LogWorld: Bringing up level for play took: 0.006876
+[2022.07.24-16.51.59:912][696]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.07.24-16.51.59:918][696]PIE: Server logged in
+[2022.07.24-16.51.59:919][696]PIE: Play in editor total start time 0.118 seconds.
+[2022.07.24-16.52.31:436][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-16.52.31:436][175]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.07.24-16.52.31:436][175]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.24-16.52.31:436][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-16.52.31:586][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.24-16.52.31:606][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-16.52.31:633][175]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.24-16.52.31:633][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-16.52.31:634][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-16.52.31:637][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-16.52.31:641][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.07.24-16.52.31:689][176]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.07.24-16.52.32:559][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_9)
+[2022.07.24-16.52.33:518][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_9)
+[2022.07.24-16.52.37:154][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_30)
+[2022.07.24-16.52.45:900][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_31)
+[2022.07.24-16.52.49:586][443]Cmd: DELETE
+[2022.07.24-16.52.49:586][443]Cmd: ACTOR DELETE
+[2022.07.24-16.52.49:590][443]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.24-16.52.49:626][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.07.24-16.52.49:629][443]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.07.24-16.52.54:114][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_29)
+[2022.07.24-16.53.00:463][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_29)
+[2022.07.24-16.53.12:831][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Bridge_15)
+[2022.07.24-16.53.53:187][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.07.24-16.53.53:190][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Autosaves/Game/NewMap_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.07.24-16.53.53:223][394]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/NewMap_Auto88FBFE1404B03F01097524D9CAE1DB3AD.tmp' to '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Autosaves/Game/NewMap_Auto8.umap'
+[2022.07.24-16.53.53:225][394]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.067
+[2022.07.24-16.53.53:225][394]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.067
+[2022.07.24-16.54.19:894][736]LogActorFactory: Actor Factory created SM_Env_Flowers_01
+[2022.07.24-16.54.21:416][758]LogActorFactory: Actor Factory created SM_Env_Flowers_01
+[2022.07.24-16.54.22:419][774]Cmd: DELETE
+[2022.07.24-16.54.22:419][774]Cmd: ACTOR DELETE
+[2022.07.24-16.54.22:424][774]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.24-16.54.22:490][774]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.07.24-16.54.22:493][774]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2022.07.24-16.54.25:949][828]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.24-16.54.25:956][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.24-16.54.25:956][828]PIE: New page: PIE session: NewMap (24 ביולי 2022, 22:54:25)
+[2022.07.24-16.54.25:957][828]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.07.24-16.54.25:967][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010327s)
+[2022.07.24-16.54.25:968][828]LogAIModule: Creating AISystem for world NewMap
+[2022.07.24-16.54.25:968][828]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2022.07.24-16.54.25:968][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.011862s)
+[2022.07.24-16.54.26:010][828]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2022.07.24-16.54.26:011][828]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.07.24-16.54.26:011][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.24-16.54.26:011][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.24-16.54.26:011][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.24-16.54.26:011][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.24-16.54.26:011][828]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.24-16.54.26:011][828]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.24-16.54.26:011][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.24-16.54.26:011][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.24-16.54.26:012][828]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.24-16.54.26:012][828]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.24-16.54.26:012][828]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.24-16.54.26:012][828]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.24-16.54.26:015][828]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.24-16.54.26:015][828]LogAudioMixer: Display: 1: FrontRight
+[2022.07.24-16.54.26:030][828]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2022.07.24-16.54.26:030][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.24-16.54.26:030][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.24-16.54.26:030][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.24-16.54.26:031][828]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.24-16.54.26:031][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.24-16.54.26:031][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.24-16.54.26:033][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.24-16.54.26:033][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.24-16.54.26:033][828]LogInit: FAudioDevice initialized.
+[2022.07.24-16.54.26:033][828]LogAudio: Display: Audio Device (ID: 16) registered with world 'NewMap'.
+[2022.07.24-16.54.26:056][828]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.24-16.54.26:063][828]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2022.07.24-19.54.26
+[2022.07.24-16.54.26:064][828]LogWorld: Bringing up level for play took: 0.007220
+[2022.07.24-16.54.26:065][828]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.07.24-16.54.26:071][828]PIE: Server logged in
+[2022.07.24-16.54.26:072][828]PIE: Play in editor total start time 0.117 seconds.
+[2022.07.24-16.55.18:406][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-16.55.18:406][647]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.07.24-16.55.18:406][647]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.24-16.55.18:407][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-16.55.18:535][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.24-16.55.18:541][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-16.55.18:566][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-16.55.18:567][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-16.55.18:568][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-16.55.18:575][647]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.07.24-16.55.18:632][648]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.07.24-16.57.34:575][803]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.24-16.57.34:583][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.24-16.57.34:583][803]PIE: New page: PIE session: NewMap (24 ביולי 2022, 22:57:34)
+[2022.07.24-16.57.34:583][803]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.07.24-16.57.34:594][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011016s)
+[2022.07.24-16.57.34:595][803]LogAIModule: Creating AISystem for world NewMap
+[2022.07.24-16.57.34:595][803]LogPlayLevel: PIE: World Init took: (0.001605s)
+[2022.07.24-16.57.34:595][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.012931s)
+[2022.07.24-16.57.34:638][803]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.07.24-16.57.34:642][803]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.07.24-16.57.34:642][803]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.24-16.57.34:642][803]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.24-16.57.34:642][803]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.24-16.57.34:642][803]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.24-16.57.34:642][803]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.24-16.57.34:642][803]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.24-16.57.34:642][803]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.24-16.57.34:642][803]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.24-16.57.34:643][803]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.24-16.57.34:643][803]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.24-16.57.34:643][803]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.24-16.57.34:643][803]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.24-16.57.34:645][803]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.24-16.57.34:645][803]LogAudioMixer: Display: 1: FrontRight
+[2022.07.24-16.57.34:660][803]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2022.07.24-16.57.34:660][803]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.24-16.57.34:660][803]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.24-16.57.34:660][803]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.24-16.57.34:661][803]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.24-16.57.34:661][803]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.24-16.57.34:661][803]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.24-16.57.34:662][803]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.24-16.57.34:663][803]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.24-16.57.34:663][803]LogInit: FAudioDevice initialized.
+[2022.07.24-16.57.34:663][803]LogAudio: Display: Audio Device (ID: 17) registered with world 'NewMap'.
+[2022.07.24-16.57.34:683][803]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.24-16.57.34:691][803]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2022.07.24-19.57.34
+[2022.07.24-16.57.34:692][803]LogWorld: Bringing up level for play took: 0.007203
+[2022.07.24-16.57.34:692][803]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.07.24-16.57.34:698][803]PIE: Server logged in
+[2022.07.24-16.57.34:699][803]PIE: Play in editor total start time 0.118 seconds.
+[2022.07.24-16.58.41:606][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-16.58.41:606][919]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.07.24-16.58.41:606][919]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.24-16.58.41:607][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-16.58.41:748][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.24-16.58.41:755][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.24-16.58.41:783][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.24-16.58.41:783][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-16.58.41:785][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.24-16.58.41:793][919]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.07.24-16.58.41:841][920]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.07.24-17.05.52:903][237]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2022.07.24-17.05.52:905][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Autosaves/Game/NewMap_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.07.24-17.05.52:935][237]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/NewMap_Auto910EAC8B643B55E6439D4049668299C75.tmp' to '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Autosaves/Game/NewMap_Auto9.umap'
+[2022.07.24-17.05.52:937][237]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.099
+[2022.07.24-17.05.52:937][237]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.099
