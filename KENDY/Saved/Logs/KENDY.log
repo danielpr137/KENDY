@@ -4382,3 +4382,54 @@ Script Stack (0 frames):
 [2022.09.04-20.49.56:521][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.09.04-20.49.56:524][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
 [2022.09.04-20.49.56:542][686]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.09.04-20.57.01:037][881]LogMaterial: Display: Missing cached shadermap for Vid3_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5BF64259F074C46EF5770938AE3A9BB12C829AE0), compiling. 
+[2022.09.04-20.57.01:042][881]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.04-20.57.01:042][881]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.09.04-20.57.01:042][881]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.09.04-20.57.01:097][883]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.04-20.57.01:097][883]LogShaderCompilers: Display: Total job queries 813, among them cache hits 287 (35.30%)
+[2022.09.04-20.57.01:097][883]LogShaderCompilers: Display: Tracking 466 distinct input hashes that result in 141 distinct outputs (30.26%)
+[2022.09.04-20.57.01:097][883]LogShaderCompilers: Display: RAM used: 0.59 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.07%
+[2022.09.04-20.57.01:097][883]LogShaderCompilers: Display: ================================================
+[2022.09.04-20.57.01:116][884]MaterialEditorStats: Default UI Pixel Shader: 36 instructions
+[2022.09.04-20.57.01:117][884]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2022.09.04-20.57.01:117][884]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2022.09.04-20.57.01:117][884]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.04-20.57.01:117][884]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.09.04-20.57.01:117][884]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.09.04-20.57.07:008][ 12]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8B068118E49FEC6AA167CF9034CD3CBA87502F26), compiling. 
+[2022.09.04-20.57.13:370][149]LogMaterialEditor: Applying material Vid3_Mat
+[2022.09.04-20.57.13:817][149]LogMaterial: Display: Missing cached shadermap for Vid3_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5CB980CBE2E447C41DD05513A196404C441A1AA5), compiling. 
+[2022.09.04-20.57.13:853][149]LogMaterial: Display: Missing cached shadermap for Vid3_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: ED1E7C51D6593560693CBEBE322E871DEB5A0A60), compiling. 
+[2022.09.04-20.57.13:892][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.09.04-20.57.14:042][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.09.04-20.57.14:056][149]MaterialEditorStats: Texture samplers: 1/16
+[2022.09.04-20.57.14:056][149]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.09.04-20.57.14:056][149]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.09.04-20.57.14:142][151]MaterialEditorStats: Default UI Pixel Shader: 36 instructions
+[2022.09.04-20.57.14:142][151]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2022.09.04-20.57.14:142][151]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2022.09.04-20.57.14:142][151]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.04-20.57.14:142][151]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.09.04-20.57.14:143][151]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.09.04-20.57.22:612][333]LogMaterial: Display: Missing cached shadermap for Vid3_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7D3F42EBFE37B98E82CBF602FB08BC417492E4CB), compiling. 
+[2022.09.04-20.57.26:789][456]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.04-20.57.33:408][624]LogMaterial: Display: Missing cached shadermap for Vid3_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2ED32550C8407EBCFFB074042CD31BEB0A82986A), compiling. 
+[2022.09.04-20.57.50:563][114]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.09.04-20.57.50:563][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.04-20.57.58:805][298]LogSlate: Window 'MainMenuWB' being destroyed
+[2022.09.04-20.57.58:857][298]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.09.04-20.57.58:857][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.04-20.57.58:872][298]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.09.04-20.57.58:872][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.04-20.58.25:483][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.09.04-20.58.25:489][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainmenuMap" FILE="../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Autosaves/Game/MainmenuMap_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.09.04-20.58.25:501][ 36]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/MainmenuMap_Auto9F83AABC3437DC766B51F10A0FA309088.tmp' to '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Autosaves/Game/MainmenuMap_Auto9.umap'
+[2022.09.04-20.58.25:503][ 36]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainmenuMap' took 0.054
+[2022.09.04-20.58.25:503][ 36]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2022.09.04-20.58.25:504][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Vid3_Mat] ([1] browsable assets)...
+[2022.09.04-20.58.25:508][ 36]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Vid3_Mat.Vid3_Mat]
+[2022.09.04-20.58.25:508][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/Vid3_Mat]
+[2022.09.04-20.58.25:508][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vid3_Mat" FILE="../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Autosaves/Game/Vid3_Mat_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2022.09.04-20.58.25:513][ 36]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Vid3_Mat_Auto9B8C6B33A4647DFA9F5F50DB0033264DC.tmp' to '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Autosaves/Game/Vid3_Mat_Auto9.uasset'
+[2022.09.04-20.58.25:514][ 36]LogFileHelpers: Auto-saving content packages took 0.011
