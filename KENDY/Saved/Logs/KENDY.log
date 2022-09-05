@@ -4433,3 +4433,192 @@ Script Stack (0 frames):
 [2022.09.04-20.58.25:508][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vid3_Mat" FILE="../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Autosaves/Game/Vid3_Mat_Auto9.uasset" SILENT=false AUTOSAVING=true
 [2022.09.04-20.58.25:513][ 36]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Vid3_Mat_Auto9B8C6B33A4647DFA9F5F50DB0033264DC.tmp' to '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Autosaves/Game/Vid3_Mat_Auto9.uasset'
 [2022.09.04-20.58.25:514][ 36]LogFileHelpers: Auto-saving content packages took 0.011
+[2022.09.04-21.45.39:338][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vid3" FILE="../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Content/Vid3.uasset" SILENT=true
+[2022.09.04-21.45.39:340][938]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Vid39504EE6A4F5083602C456E8F99C5257C.tmp' to '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Content/Vid3.uasset'
+[2022.09.04-21.45.39:389][938]AssetCheck: New page: Asset Save: Vid3
+[2022.09.04-21.45.39:389][938]LogContentValidation: Display: Validating MediaPlayer /Game/Vid3.Vid3
+[2022.09.04-21.45.39:923][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vid3" FILE="../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Content/Vid3.uasset" SILENT=true
+[2022.09.04-21.45.39:924][969]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Vid3FC8AD5944C31A99C3AC9409D0B127475.tmp' to '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Content/Vid3.uasset'
+[2022.09.04-21.45.39:940][969]AssetCheck: New page: Asset Save: Vid3
+[2022.09.04-21.45.39:940][969]LogContentValidation: Display: Validating MediaPlayer /Game/Vid3.Vid3
+[2022.09.04-21.45.40:085][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vid3" FILE="../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Content/Vid3.uasset" SILENT=true
+[2022.09.04-21.45.40:087][977]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Vid306BBB8CE4DAEFF01918424A513B3377F.tmp' to '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Content/Vid3.uasset'
+[2022.09.04-21.45.40:105][977]AssetCheck: New page: Asset Save: Vid3
+[2022.09.04-21.45.40:105][977]LogContentValidation: Display: Validating MediaPlayer /Game/Vid3.Vid3
+[2022.09.04-21.45.40:256][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vid3" FILE="../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Content/Vid3.uasset" SILENT=true
+[2022.09.04-21.45.40:258][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Saved/Vid391BB9DA94A29AE3464B0B3855203B017.tmp' to '../../../../../../Users/Admin/Documents/GitHub/KENDY/KENDY/Content/Vid3.uasset'
+[2022.09.04-21.45.40:274][985]AssetCheck: New page: Asset Save: Vid3
+[2022.09.04-21.45.40:274][985]LogContentValidation: Display: Validating MediaPlayer /Game/Vid3.Vid3
+[2022.09.04-22.14.39:181][701]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{1329c45f-ec79-48a3-86d4-6416db3b87e4}.
+[2022.09.04-22.14.39:181][701]LogAudioMixer: Resetting audio stream to device id 
+[2022.09.04-22.14.39:345][701]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.04-22.14.39:345][701]LogAudioMixer: Display: 1: FrontRight
+[2022.09.04-22.14.41:062][707]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.09.05-01.14.45:205][708]LogAudioMixer: Resetting audio stream to device id 
+[2022.09.05-01.14.45:969][708]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.05-01.14.45:969][708]LogAudioMixer: Display: 1: FrontRight
+[2022.09.05-01.14.46:158][709]LogHttp: Warning: 000001B004FF2B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B26B9FF53-4E91-9724-B881-ECBBA13C26CA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=f40274cc4dc6027777efeea4e1f47c57%7Cc009aa26a11f465ab2c27d9702f803cd%7C26dd5038-d3ed-419d-a5c2-43e1a29a6659&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.05-01.14.46:159][709]LogHttp: Warning: 000001B004FF2B00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.09.05-01.14.46:159][709]LogHttp: Warning: 000001B004FF2B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1aea6647eb0 [can pipeline])
+[2022.09.05-01.14.46:159][709]LogHttp: Warning: 000001B004FF2B00: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2022.09.05-01.14.46:159][709]LogHttp: Warning: 000001B004FF2B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.230.10.29) port 443 (#3))
+[2022.09.05-01.14.46:159][709]LogHttp: Warning: 000001B004FF2B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.09.05-01.14.46:159][709]LogHttp: Warning: 000001B004FF2B00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.09.05-01.14.46:159][709]LogHttp: Warning: 000001B004FF2B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.09.05-01.14.46:159][709]LogHttp: Warning: 000001B004FF2B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.09.05-01.14.46:159][709]LogHttp: Warning: 000001B004FF2B00: libcurl info message cache 7 (Closing connection 3)
+[2022.09.05-01.14.46:159][709]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B26B9FF53-4E91-9724-B881-ECBBA13C26CA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=f40274cc4dc6027777efeea4e1f47c57%7Cc009aa26a11f465ab2c27d9702f803cd%7C26dd5038-d3ed-419d-a5c2-43e1a29a6659&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.05-10.43.19:408][728]LogHttp: Warning: 000001AFCA05D600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B26B9FF53-4E91-9724-B881-ECBBA13C26CA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=f40274cc4dc6027777efeea4e1f47c57%7Cc009aa26a11f465ab2c27d9702f803cd%7C26dd5038-d3ed-419d-a5c2-43e1a29a6659&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.05-10.43.19:409][728]LogHttp: Warning: 000001AFCA05D600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.05-10.43.19:409][728]LogHttp: Warning: 000001AFCA05D600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.05-10.43.19:410][728]LogHttp: Warning: 000001AFCA05D600: libcurl info message cache 1 (Closing connection 4)
+[2022.09.05-10.43.19:434][729]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B26B9FF53-4E91-9724-B881-ECBBA13C26CA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=f40274cc4dc6027777efeea4e1f47c57%7Cc009aa26a11f465ab2c27d9702f803cd%7C26dd5038-d3ed-419d-a5c2-43e1a29a6659&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.05-10.44.28:130][934]LogHttp: Warning: 000001AFC8755D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B26B9FF53-4E91-9724-B881-ECBBA13C26CA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=f40274cc4dc6027777efeea4e1f47c57%7Cc009aa26a11f465ab2c27d9702f803cd%7C26dd5038-d3ed-419d-a5c2-43e1a29a6659&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.05-10.44.28:130][934]LogHttp: Warning: 000001AFC8755D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.05-10.44.28:130][934]LogHttp: Warning: 000001AFC8755D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.05-10.44.28:130][934]LogHttp: Warning: 000001AFC8755D00: libcurl info message cache 1 (Closing connection 5)
+[2022.09.05-10.44.28:464][935]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B26B9FF53-4E91-9724-B881-ECBBA13C26CA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=f40274cc4dc6027777efeea4e1f47c57%7Cc009aa26a11f465ab2c27d9702f803cd%7C26dd5038-d3ed-419d-a5c2-43e1a29a6659&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.05-11.05.11:615][646]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.09.05-11.05.11:615][646]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.09.05-11.05.13:699][753]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.05-11.05.13:739][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.05-11.05.13:740][753]PIE: New page: PIE session: MainmenuMap (5 בספט׳ 2022, 17:05:13)
+[2022.09.05-11.05.13:767][753]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainmenuMap
+[2022.09.05-11.05.13:797][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028819s)
+[2022.09.05-11.05.13:804][753]LogAIModule: Creating AISystem for world MainmenuMap
+[2022.09.05-11.05.13:807][753]LogPlayLevel: PIE: World Init took: (0.010876s)
+[2022.09.05-11.05.13:807][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainmenuMap.MainmenuMap to /Game/UEDPIE_0_MainmenuMap.MainmenuMap (0.040792s)
+[2022.09.05-11.05.14:075][753]LogUObjectHash: Compacting FUObjectHashTables data took  52.64ms
+[2022.09.05-11.05.14:208][753]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.09.05-11.05.14:208][753]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.05-11.05.14:208][753]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.05-11.05.14:208][753]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.05-11.05.14:208][753]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.05-11.05.14:208][753]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.05-11.05.14:208][753]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.05-11.05.14:208][753]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.05-11.05.14:208][753]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.05-11.05.14:211][753]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.05-11.05.14:211][753]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.05-11.05.14:211][753]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.05-11.05.14:212][753]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.05-11.05.14:256][753]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.05-11.05.14:256][753]LogAudioMixer: Display: 1: FrontRight
+[2022.09.05-11.05.14:273][753]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2022.09.05-11.05.14:286][753]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.05-11.05.14:287][753]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.05-11.05.14:287][753]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.05-11.05.14:295][753]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.05-11.05.14:295][753]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.05-11.05.14:295][753]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.05-11.05.14:297][753]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.05-11.05.14:297][753]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.05-11.05.14:297][753]LogInit: FAudioDevice initialized.
+[2022.09.05-11.05.14:297][753]LogAudio: Display: Audio Device (ID: 20) registered with world 'MainmenuMap'.
+[2022.09.05-11.05.14:321][753]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.09.05-11.05.14:325][753]LogWorld: Bringing World /Game/UEDPIE_0_MainmenuMap.MainmenuMap up for play (max tick rate 60) at 2022.09.05-14.05.14
+[2022.09.05-11.05.14:326][753]LogWorld: Bringing up level for play took: 0.001419
+[2022.09.05-11.05.14:327][753]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2022.09.05-11.05.14:354][753]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.05-11.05.14:355][753]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.09.05-11.05.14:356][753]PIE: Server logged in
+[2022.09.05-11.05.14:357][753]PIE: Play in editor total start time 0.625 seconds.
+[2022.09.05-11.05.18:589][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.05-11.05.18:589][970]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainmenuMap
+[2022.09.05-11.05.18:589][970]LogWorld: UWorld::CleanupWorld for MainmenuMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.05-11.05.18:590][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.05-11.05.18:601][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.05-11.05.18:606][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.05-11.05.18:628][970]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.05-11.05.18:629][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.05-11.05.18:630][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.05-11.05.18:634][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.05-11.05.18:642][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.09.05-11.05.18:660][971]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.09.05-11.05.29:155][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.05-11.05.29:155][576]PIE: New page: PIE session: MainmenuMap (5 בספט׳ 2022, 17:05:29)
+[2022.09.05-11.05.29:155][576]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainmenuMap
+[2022.09.05-11.05.29:157][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001921s)
+[2022.09.05-11.05.29:158][576]LogAIModule: Creating AISystem for world MainmenuMap
+[2022.09.05-11.05.29:159][576]LogPlayLevel: PIE: World Init took: (0.001345s)
+[2022.09.05-11.05.29:159][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainmenuMap.MainmenuMap to /Game/UEDPIE_0_MainmenuMap.MainmenuMap (0.003454s)
+[2022.09.05-11.05.29:181][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.09.05-11.05.29:183][576]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.09.05-11.05.29:183][576]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.05-11.05.29:183][576]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.05-11.05.29:183][576]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.05-11.05.29:183][576]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.05-11.05.29:183][576]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.05-11.05.29:183][576]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.05-11.05.29:183][576]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.05-11.05.29:183][576]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.05-11.05.29:184][576]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.05-11.05.29:184][576]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.05-11.05.29:184][576]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.05-11.05.29:184][576]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.05-11.05.29:187][576]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.05-11.05.29:187][576]LogAudioMixer: Display: 1: FrontRight
+[2022.09.05-11.05.29:200][576]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2022.09.05-11.05.29:201][576]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.05-11.05.29:201][576]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.05-11.05.29:201][576]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.05-11.05.29:202][576]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.05-11.05.29:202][576]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.05-11.05.29:202][576]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.05-11.05.29:204][576]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.05-11.05.29:204][576]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.05-11.05.29:204][576]LogInit: FAudioDevice initialized.
+[2022.09.05-11.05.29:204][576]LogAudio: Display: Audio Device (ID: 21) registered with world 'MainmenuMap'.
+[2022.09.05-11.05.29:256][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.05-11.05.29:256][576]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.09.05-11.05.29:257][576]LogWorld: Bringing World /Game/UEDPIE_0_MainmenuMap.MainmenuMap up for play (max tick rate 60) at 2022.09.05-14.05.29
+[2022.09.05-11.05.29:258][576]LogWorld: Bringing up level for play took: 0.000591
+[2022.09.05-11.05.29:258][576]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2022.09.05-11.05.29:266][576]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.05-11.05.29:266][576]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.09.05-11.05.29:288][576]PIE: Server logged in
+[2022.09.05-11.05.29:289][576]PIE: Play in editor total start time 0.135 seconds.
+[2022.09.05-11.05.31:289][675]LogRenderer: Reallocating scene render targets to support 1280x656 Format 10 NumSamples 1 (Frame:100).
+[2022.09.05-11.05.40:782][951]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.09.05-11.05.40:783][951]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.09.05-11.05.40:789][951]LogNet: Browse: /Game/KENDY_Map_1/Maps/Stylized_Egypt_Demo
+[2022.09.05-11.05.40:790][951]LogLoad: LoadMap: /Game/KENDY_Map_1/Maps/Stylized_Egypt_Demo
+[2022.09.05-11.05.40:790][951]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainmenuMap
+[2022.09.05-11.05.40:791][951]LogWorld: UWorld::CleanupWorld for MainmenuMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.05-11.05.40:791][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.05-11.05.40:819][951]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.05-11.05.40:827][951]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.09.05-11.05.43:717][951]LogAudio: Display: Audio Device (ID: 21) registered with world 'Stylized_Egypt_Demo'.
+[2022.09.05-11.05.43:720][951]LogAIModule: Creating AISystem for world Stylized_Egypt_Demo
+[2022.09.05-11.05.43:721][951]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.09.05-11.05.43:817][951]LogWorld: Bringing World /Game/KENDY_Map_1/Maps/UEDPIE_0_Stylized_Egypt_Demo.Stylized_Egypt_Demo up for play (max tick rate 60) at 2022.09.05-14.05.43
+[2022.09.05-11.05.43:820][951]LogWorld: Bringing up level for play took: 0.097212
+[2022.09.05-11.05.43:831][951]LogLoad: Took 3.040683 seconds to LoadMap(/Game/KENDY_Map_1/Maps/Stylized_Egypt_Demo)
+[2022.09.05-11.06.54:876][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.05-11.06.54:876][719]LogWorld: BeginTearingDown for /Game/KENDY_Map_1/Maps/UEDPIE_0_Stylized_Egypt_Demo
+[2022.09.05-11.06.54:878][719]LogSlate: Window 'KENDY Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.09.05-11.06.55:065][719]LogWorld: UWorld::CleanupWorld for Stylized_Egypt_Demo, bSessionEnded=true, bCleanupResources=true
+[2022.09.05-11.06.55:078][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.05-11.06.55:095][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.05-11.06.55:102][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.05-11.06.55:135][719]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.05-11.06.55:135][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.05-11.06.55:136][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.05-11.06.55:159][719]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.09.05-11.06.55:176][720]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.09.05-11.07.01:682][ 54]LogAssetEditorSubsystem: Opening Asset editor for MediaTexture /Game/Vid3_Video.Vid3_Video
+[2022.09.05-12.07.47:063][391]LogHttp: Warning: 000001AF8D9B9D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B26B9FF53-4E91-9724-B881-ECBBA13C26CA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=f40274cc4dc6027777efeea4e1f47c57%7Cc009aa26a11f465ab2c27d9702f803cd%7C26dd5038-d3ed-419d-a5c2-43e1a29a6659&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.05-12.07.47:063][391]LogHttp: Warning: 000001AF8D9B9D00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.09.05-12.07.47:063][391]LogHttp: Warning: 000001AF8D9B9D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1aea66449a0 [can pipeline])
+[2022.09.05-12.07.47:063][391]LogHttp: Warning: 000001AF8D9B9D00: libcurl info message cache 1 (Re-using existing connection! (#6) with host datarouter.ol.epicgames.com)
+[2022.09.05-12.07.47:063][391]LogHttp: Warning: 000001AF8D9B9D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.196.242.184) port 443 (#6))
+[2022.09.05-12.07.47:063][391]LogHttp: Warning: 000001AF8D9B9D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.09.05-12.07.47:063][391]LogHttp: Warning: 000001AF8D9B9D00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.09.05-12.07.47:063][391]LogHttp: Warning: 000001AF8D9B9D00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.09.05-12.07.47:063][391]LogHttp: Warning: 000001AF8D9B9D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.09.05-12.07.47:063][391]LogHttp: Warning: 000001AF8D9B9D00: libcurl info message cache 7 (Closing connection 6)
+[2022.09.05-12.07.47:064][391]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B26B9FF53-4E91-9724-B881-ECBBA13C26CA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=f40274cc4dc6027777efeea4e1f47c57%7Cc009aa26a11f465ab2c27d9702f803cd%7C26dd5038-d3ed-419d-a5c2-43e1a29a6659&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.05-12.18.48:568][366]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.09.05-12.18.48:568][366]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.09.05-12.18.51:442][472]LogSlate: Window 'Vid3_Video' being destroyed
+[2022.09.05-12.18.51:453][472]LogSlate: Window 'Vid3_Video' being destroyed
