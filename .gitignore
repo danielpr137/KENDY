@@ -67,6 +67,7 @@ Build/*/**
 Saved/*
 KENDY/Saved/*
 KENDY/Saved/Logs
+*.log
 # Compiled source files for the engine to use
 Intermediate/*
 Plugins/*/Intermediate/*
