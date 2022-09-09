@@ -74,9 +74,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-KENDY/Saved/Config/Windows/Engine.ini
 KENDY/Saved/Logs/KENDY.log
-KENDY/Saved/Autosaves/PackageRestoreData.json
-KENDY/Saved/Config/Windows/Engine.ini
-KENDY/Saved/Logs/KENDY.log
-KENDY/Saved/Autosaves/PackageRestoreData.json
+KENDY/Saved/Logs/KENDY-backup-2022.08.30-16.57.46.log
