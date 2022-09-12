@@ -76,3 +76,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 KENDY/Saved/Logs/KENDY.log
 KENDY/Saved/Logs/KENDY-backup-2022.08.30-16.57.46.log
+*.log
+*.log
